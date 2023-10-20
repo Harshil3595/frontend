@@ -1,0 +1,55 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.first-div-1-1{
+    display: flex;
+    flex-direction: row;
+}
+
+.first-div-1-2{
+    display: flex;
+    flex-direction: row;
+}
+
+.form-field {
+  display: flex;
+  flex-direction: column;
+  margin-right: 30px;
+}
+
+label {
+  font-weight: bold;
+}
+
+input {
+  width: 100%;
+  padding: 5px;
+  border: 1px solid #ccc;
+}
+
+.factor-options{
+    display: flex;
+    flex-direction: row;
+}
+
+.third-div-first{
+    display: flex;
+    flex-direction: row;
+}
+
+.third-div-second{
+    display: flex;
+    flex-direction: row;
+}
+
+.conditions-options{
+    display: flex;
+    flex-direction: row;
+}
+
+.btn{
+    margin-right: 20px;
+}
